@@ -35,7 +35,7 @@ I am currently enrolled in the **Codebasics Data Engineering Bootcamp** to upski
 | ⏳ | **Big Data (Spark & Databricks)** | PySpark, Distributed Computing |
 | ⏳ | **Orchestration (Airflow)** | DAGs, Workflow Management |
 
-> *Status Legend: ✅ Completed | 🔄 In Progress (37%) | ⏳ Upcoming*
+> *Status Legend: ✅ Completed | 🔄 In Progress (46%) | ⏳ Upcoming*
 
 ---
 
@@ -56,5 +56,5 @@ I am currently enrolled in the **Codebasics Data Engineering Bootcamp** to upski
 
 <p align="left">
 <a href="https://www.linkedin.com/in/rifkyramdhani/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rifkyramdhani" /></a>
-<a href="mailto:email_anda@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:rifkyramdhani@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>

@@ -35,7 +35,7 @@ I am currently enrolled in the **Codebasics Data Engineering Bootcamp** to upski
 | ⏳ | **Big Data (Spark & Databricks)** | PySpark, Distributed Computing |
 | ⏳ | **Orchestration (Airflow)** | DAGs, Workflow Management |
 
-> *Status Legend: ✅ Completed | 🔄 In Progress (46%) | ⏳ Upcoming*
+> *Status Legend: ✅ Completed | 🔄 In Progress (62%) | ⏳ Upcoming*
 
 ---
 
